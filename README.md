@@ -1,2 +1,2 @@
 # javascritp_profesional
-Curso de javascript profesional
+Curso de JavaScript  profesional
